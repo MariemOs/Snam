@@ -1,0 +1,5 @@
+/Data/sfpd_total.csv
+/Data/sfpd_zip.csv
+/Data/train.csv
+/Data/test.csv
+kafkaConsumerSpark/.idea/
